@@ -1,3 +1,4 @@
+'''Creative Exercise 1b: DrawTriangle'''
 package yousaywhy;
 
 public class DrawingTriangle {
